@@ -18,6 +18,9 @@ cd custom_enumerable_project
 
 and install the dependencies using the command
 
+> [!NOTE]
+> If you get a Ruby version error, it's recommended to [update your ruby installation](https://www.theodinproject.com/lessons/ruby-installing-ruby#update-ruby). Alternatively, you can [change the local ruby version](https://www.theodinproject.com/lessons/ruby-installing-ruby#set-local-and-global-ruby-version) to your installed version if your version is not too behind from output of `rbenv local`. (to check your installed version: `ruby -v`)
+
 ```bash
 bundle install
 ```
